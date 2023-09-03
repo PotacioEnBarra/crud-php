@@ -1,5 +1,5 @@
 <?php
-$base_url = "http://localhost/app/";
+$base_url = "http://localhost/crud-php/";
 ?>
 
 <!doctype html>
